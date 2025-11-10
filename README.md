@@ -1,6 +1,6 @@
-Для установки зависимостей: ```shell pip install -r requirements.txt```
+Для установки зависимостей: ```pip install -r requirements.txt```
 
-Для запуска: ```shell uvicorn main:app --port 8080```
+Для запуска: ```uvicorn main:app --port 8080```
 
 Перед запуском создайте в основной папке проекта файл .env и заполните его данными. Вот данные для тестового запуска:
 ```python
